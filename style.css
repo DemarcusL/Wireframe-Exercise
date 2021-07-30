@@ -9,24 +9,45 @@ color: rgb(87, 90, 90);
 }
 
 #img1 {
-image-orientation: ;
-
+max-width: 100%;
+height: auto;
 }
 
 
 #img2 {
 float: left;
-word-wrap: normal;
-margin-right: 30px;
-margin-bottom: 40px;
+max-width: 50%;
+height: auto;
+margin: 10px;
 }
 
 #img3 {
-margin-left: 20px;
-margin-top: 20px;
+max-width: 50%;
+height: auto;
 float: right;
+margin: 10px;
 
 }
+
+#img4 {
+max-width: 50%;
+height: auto;
+margin: 10px;
+
+}
+
+#img5 {
+max-width: 50%;
+height: auto;
+margin: 10px;
+}
+
+#img6 {
+max-width: 50%;
+height: auto;
+margin: 10px;
+}
+
 
 ul {
 text-align: ;
